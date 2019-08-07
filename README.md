@@ -8,4 +8,4 @@ Libraries used:
 4) Pandas
 5) Scikit-learn
 
-Other Team members were : Siddhant Jain, Sarthak M. Das
+Other Team members were : Siddhant Jain(https://github.com/gitsiddhant), Sarthak M. Das(https://github.com/sarthak-m-das)
