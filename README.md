@@ -2,11 +2,13 @@
 This was a part of ML Hackathon organised by IIT MADRAS in Jul-Aug 2019.
 
 Libraries used:
-1) Matplotlib
-2) Numpy
-3) Pandas
-4) Scikit-learn
+* Matplotlib
+* Numpy
+* Pandas
+* Scikit-learn
 
-Random Forest Regression is used.
+_Random Forest Regression_ is used.
 
-Other Team members were : **Siddhant Jain**(https://github.com/gitsiddhant), **Sarthak M. Das**(https://github.com/sarthak-m-das)
+Other Team members:
+* [**Siddhant Jain**](https://www.github.com/gitsiddhant)
+* [**Sarthak M. Das**](https://www.github.com/sarthak-m-das)
